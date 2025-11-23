@@ -21,7 +21,7 @@ The main objective was to **optimize IT service management** by analyzing data f
 ## 📸 Dashboard Previews
 
 ### Dashboard 1: Request Overview
-![Dashboard Overview](docs/presentation/Dashboard Overview.png)
+![Dashboard Overview](docs/presentation/Dashboard%20Overview.png)
 
 **Key Insights:**
 - Average of 17.93 requests per day
@@ -38,7 +38,7 @@ The main objective was to **optimize IT service management** by analyzing data f
 ---
 
 ### Dashboard 2: Service Performance
-![Dashboard Performance](docs/presentation/Dashboard Performance.png)
+![Dashboard Performance](docs/presentation/Dashboard%20Performance.png)
 
 **Important Metrics:**
 - Average resolution time: 167.90h (actual) / 91.55h (theoretical)
@@ -56,7 +56,7 @@ The main objective was to **optimize IT service management** by analyzing data f
 ---
 
 ### Dashboard 3: Task Monitoring
-![Dashboard Tasks](docs/presentation/Dashboard Tasks.png)
+![Dashboard Tasks](docs/presentation/Dashboard%20Tasks.png)
 
 **Analysis:**
 - 7,597 tasks processed
